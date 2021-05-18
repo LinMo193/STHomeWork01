@@ -1,0 +1,5 @@
+0    [main] DEBUG com.join.StudentManager  - 未查找到该名学生信息
+0    [main] DEBUG com.join.StudentManager  - 未查找到该名学生信息
+5756 [main] DEBUG com.join.StudentManager  - 已查找到该名学生信息：Student{id=2001, name='moon', birDate='20010709', gender=false}
+40823 [main] DEBUG com.join.StudentManager  - 成功退出修改信息程序
+49265 [main] DEBUG com.join.StudentManager  - 学生moon已删除成功
