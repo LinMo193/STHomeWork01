@@ -52,4 +52,14 @@ public class Student implements Comparable<Student> {
     public int compareTo(Student student) {
         return this.getId()-student.getId();
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", birDate='" + birDate + '\'' +
+                ", gender=" + gender +
+                '}';
+    }
 }
